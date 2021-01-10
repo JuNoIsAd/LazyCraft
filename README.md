@@ -1,0 +1,2 @@
+# LazyCraft
+Welcome to lazyCraft
